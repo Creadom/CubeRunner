@@ -7,14 +7,14 @@ public class VolumeManager : MonoBehaviour {
     private float volumeValue;
 	// Use this for initialization
 	void Start () {
-        volumeValue = PlayerPrefs.GetFloat("Volume");
+        volumeValue = PlayerPrefs.GetFloat("Volume", 1);
 	}
 	
 	// Update is called once per frame
 	void Update () {
-		if (volumeValue != PlayerPrefs.GetFloat("Volume"))
+		if (volumeValue != PlayerPrefs.GetFloat("Volume, 1"))
         {
-            volumeValue = PlayerPrefs.GetFloat("Volume");
+            volumeValue = PlayerPrefs.GetFloat("Volume", 1);
             ChangeVolume(volumeValue);
         }
         ChangeVolume(volumeValue);

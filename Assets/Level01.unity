@@ -199,11 +199,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 95ed587b26d0a5b4d9e12212f5b4916d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!81 &115977244 stripped
-AudioListener:
-  m_PrefabParentObject: {fileID: 81341346651580052, guid: a08cf2f5cf3212f4f9d25c8398e90d50,
-    type: 2}
-  m_PrefabInternal: {fileID: 151292137}
 --- !u!1001 &151292137
 Prefab:
   m_ObjectHideFlags: 0
@@ -473,7 +468,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   pausedPanel: {fileID: 1973509585}
-  camSound: {fileID: 115977244}
 --- !u!224 &434205800 stripped
 RectTransform:
   m_PrefabParentObject: {fileID: 224412134146624004, guid: b66840e59646d50488fe1229e687084a,
@@ -1529,7 +1523,7 @@ GameObject:
   - component: {fileID: 1973509587}
   - component: {fileID: 1973509589}
   m_Layer: 5
-  m_Name: Panel
+  m_Name: Pause
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

@@ -1,0 +1,13 @@
+<?xml version="1.0"?><svg width="1600" height="1200" xmlns="http://www.w3.org/2000/svg">
+ <title>big cube</title>
+ <metadata id="metadata7">image/svg+xml</metadata>
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_1">
+   <path stroke-width="10" stroke="#7f0000" id="path2987" d="m644.999939,29.99999l-514.999924,253.19935l514.999924,253.199341l515.000061,-249.199341l-515.000061,-257.19935z" fill="#ff0000"/>
+   <path stroke-width="10" stroke="#7f0000" d="m644.999939,536.398682l0,632.998413l517.000061,-253.199341l0,-628.998413l-517.000061,249.199341z" id="path2989" fill="#ff0000"/>
+   <path stroke-width="10" stroke="#7f0000" id="path2991" d="m644.999939,536.398682l-8,632.998413l-508.999924,-253.199341l2,-632.998413l514.999924,253.199341z" fill="#bf0000"/>
+   <path id="path2993" d="m644.999878,30.324524l-516.999878,253.199371l0,632.998383l516.999878,253.19928l517.000122,-253.19928l0,-632.998383l-517.000122,-253.199371z" stroke-width="16" stroke="#7f0000" fill="none"/>
+  </g>
+ </g>
+</svg>
